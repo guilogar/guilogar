@@ -95,10 +95,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/guilogar/tfg" title="final degree project, Azure and IoT">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=tfg&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="left" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=tfg&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a align="right" href="https://github.com/guilogar/universidad" title="All projects that i made in university">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=universidad&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="right" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=universidad&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
 
@@ -106,10 +106,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/guilogar/isi" title="Information Systems Engineering">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=isi&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="left" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=isi&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a align="right" href="https://github.com/guilogar/ssi" title="Security in Informatics Systems">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=ssi&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="right" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=ssi&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
 
@@ -117,10 +117,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/guilogar/pnet" title="Internet Programming">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=pnet&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="left" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=pnet&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a align="right" href="https://github.com/guilogar/pctr" title="Concurrent and Real-Time Programming">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=pctr&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="right" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=pctr&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
 
@@ -128,10 +128,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/guilogar/tabd" title="Advanced Database Technology">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=tabd&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="left" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=tabd&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a align="right" href="https://github.com/guilogar/poo" title="Object-Oriented Programming">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=poo&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="right" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=guilogar&repo=poo&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
 
